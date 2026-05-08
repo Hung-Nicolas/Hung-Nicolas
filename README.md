@@ -1,5 +1,7 @@
 # Hola!
 Soy Nico, Desarrollador Full Stack. Especialista en n8n automation. Trabajo con Supabase en backend y React+Vite con asistentes de IA.
+
+🌐 [Portafolio](https://portafolio-nico-tau.vercel.app/)
 ---
 ## Stack Tecnológico
 | Categoría | Tecnologías |
